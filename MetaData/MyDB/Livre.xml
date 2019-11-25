@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><table name="Livre"><column><name>id</name><type>number</type></column><column><name>Nom</name><type>string</type></column><column><name>Genre</name><type>string</type></column></table>

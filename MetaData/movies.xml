@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<table name="movies">
+	<col>
+		<name>103</name>
+		<type>Rahul</type>
+	</col>
+	<col>
+		<name>102</name>
+		<type>Ravi</type>
+	</col><col><name>101</name><type>Vijay</type></col><col><name>100</name><type>Amit</type></col></table>
